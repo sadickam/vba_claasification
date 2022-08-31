@@ -1,0 +1,9 @@
+inflect
+transformers
+torch
+string
+plotly
+pandas
+nltk
+gsheetsdb
+streamlit
