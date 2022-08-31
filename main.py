@@ -5,8 +5,10 @@ import torch
 import string
 import plotly.express as px
 import pandas as pd
+import nltk
 from nltk.tokenize import sent_tokenize
 from gsheetsdb import connect
+nltk.download('punkt')
 
 punctuations = string.punctuation
 
