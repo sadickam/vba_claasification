@@ -1,7 +1,6 @@
 inflect
 transformers
 torch
-string
 plotly
 pandas
 nltk
