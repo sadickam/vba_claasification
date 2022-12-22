@@ -4,5 +4,4 @@ torch
 plotly
 pandas
 nltk
-gsheetsdb
 streamlit

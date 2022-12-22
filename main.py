@@ -7,15 +7,15 @@ import plotly.express as px
 import pandas as pd
 import nltk
 from nltk.tokenize import sent_tokenize
-from gsheetsdb import connect
+# from gsheetsdb import connect
 nltk.download('punkt')
 
 punctuations = string.punctuation
 
 # get data for suburbs and regions
-
-# Create a connection object.
-conn = connect()
+#
+# # Create a connection object.
+# conn = connect()
 
 
 # # Perform SQL query on the Google Sheet.
